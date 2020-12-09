@@ -5,6 +5,9 @@ A student information management system designed for students to view their cour
 
 ## Programming Languages and Tools Used:
 - Python
+- Access
+- Visual Basic
+- Jupyter Notebook
 
 ## What Is Included:
 - UML Diagram (Use Case)
