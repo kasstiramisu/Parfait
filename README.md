@@ -11,5 +11,5 @@ A student information management system designed for students to view their cour
 
 ## What Is Included:
 - UML Diagram (Use Case)
-- Data Records (in text file or in database program)
+- Data Records (Access)
 - GUI
